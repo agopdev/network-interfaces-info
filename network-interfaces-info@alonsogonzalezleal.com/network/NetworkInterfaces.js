@@ -1,8 +1,7 @@
 const Gio = imports.gi.Gio;
 
 function execCommunicate(argv) {
-    const flags = (Gio.SubprocessFlags.STDOUT_PIPE |
-                 Gio.SubprocessFlags.STDERR_PIPE);
+    const flags = (Gio.SubprocessFlags.STDOUT_PIPE | Gio.SubprocessFlags.STDERR_PIPE);
 
     const proc = Gio.Subprocess.new(argv, flags);
 

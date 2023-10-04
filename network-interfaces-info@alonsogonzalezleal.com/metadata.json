@@ -1,13 +1,13 @@
 {
   "name": "Network Interfaces Info",
-  "description": "Display Network Interfaces Information on GNOME Top Bar.",
-  "gettext-domain": "network-interfaces-info@alonsogonzalezleal.com",
   "uuid": "network-interfaces-info@alonsogonzalezleal.com",
+  "description": "Display Network Interfaces Information on GNOME Top Bar.",
+  "version": 1,
   "shell-version": [
     "42",
     "43",
     "44"
   ],
   "url": "https://github.com/alonsogonzalezleal/network-interfaces-info",
-  "version": 1
+  "gettext-domain": "network-interfaces-info@alonsogonzalezleal.com"
 }
