@@ -1,7 +1,7 @@
 # Network Interfaces Info
 Display Network Interfaces Information on GNOME Top Bar.
 
-![Quick Toggle Caffeine](images/example.png)
+![Quick Toggle Caffeine](screenshots/ss_view.png)
 
 ## About
 With this extension, you can effortlessly view information about your network interfaces.
