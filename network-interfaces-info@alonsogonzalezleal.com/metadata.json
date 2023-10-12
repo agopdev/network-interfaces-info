@@ -2,7 +2,7 @@
   "name": "Network Interfaces Info",
   "uuid": "network-interfaces-info@alonsogonzalezleal.com",
   "description": "Display Network Interfaces Information on GNOME Top Bar.",
-  "version": 2,
+  "version": 3,
   "shell-version": [
     "42",
     "43",
